@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Frameworks, Courses etc.**
 
-- 👯 I’m looking to collaborate on [Numpy Pandas](www.pandas.in)
+- 👯 I’m looking to collaborate on [Seller Tools](https://smartrwl-tools.vercel.app/)
 
-- 🤝 I’m looking for help with [X=Y](www.x=y.com)
+- 🤝 I’m looking for help with [X=Y](https://smartrwl-tools.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [smartrwlji.blogspot.com](smartrwlji.blogspot.com)
+- 👨‍💻 All of my projects are available at [SmartRwl Tools](https://smartrwl-tools.vercel.app/)
 
 - 📝 I regularly write articles on [smartrwlji.blogspot.com](smartrwlji.blogspot.com)
 
@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [smartrwlji.blogspot.com](smartrwlji.blogspot.com)
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **AAJ NAHI TO KAL**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
