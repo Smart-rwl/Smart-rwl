@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ravinder Rawal</h1>
-<h3 align="center">A passionate frontend developer from Haryana, India</h3>
+<h1 align="center">Hi 👋, I'm Smartrwl</h1>
+<h3 align="center">A passionate developer from Haryana, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smart-rwl&label=Profile%20views&color=0e75b6&style=flat" alt="smart-rwl" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/smartrwl" target="blank"><img src="https://img.shields.io/twitter/follow/smartrwl?logo=twitter&style=for-the-badge" alt="smartrwl" /></a> </p>
 
-- 🔭 I’m currently working on [Amazon Payment Dashboards](www.amazon.in)
+- 🔭 I’m currently working on [Amazon Payment Dashboards](https://smartrwl-tools.vercel.app/)
 
 - 🌱 I’m currently learning **Frameworks, Courses etc.**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [SmartRwl Tools](https://smartrwl-tools.vercel.app/)
 
-- 📝 I regularly write articles on [smartrwlji.blogspot.com](smartrwlji.blogspot.com)
+- 📝 I regularly write articles on [smartrwlji.blogspot.com](https://smartrwl-tools.vercel.app/)
 
 - 💬 Ask me about **Ecommerce, PPC,**
 
