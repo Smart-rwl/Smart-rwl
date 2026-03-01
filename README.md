@@ -116,3 +116,29 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=60&section=footer" />
 </p>
+
+---
+
+### 📊 Professional Dashboard
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smart-rwl&theme=tokyonight" width="100%" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smart-rwl&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smart-rwl&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smart-rwl&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smart-rwl&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=bb9af7" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smart-rwl&theme=tokyonight&utcOffset=5.5" width="100%" alt="Productive Time" />
+  <br/>
+  <i>Note: Productive time is calculated based on IST (UTC +5:30)</i>
+</p>
+
+---
