@@ -68,13 +68,26 @@
 
 ---
 
-### 📊 Github Stats
+### 📊 Funky Stats Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smart-rwl&show_icons=true&locale=en&layout=compact" alt="smart-rwl" />
-  <img src="https://github-readme-stats.vercel.app/api?username=smart-rwl&show_icons=true&locale=en" alt="smart-rwl" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smart-rwl&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="smart-rwl" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smart-rwl&" alt="smart-rwl" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smart-rwl&show_icons=true&locale=en&theme=radical&hide_border=true" alt="smart-rwl" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smart-rwl&theme=radical&hide_border=true" alt="smart-rwl" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smart-rwl&theme=radical" alt="Summary Card" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </p>
