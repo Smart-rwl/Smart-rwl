@@ -91,3 +91,28 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </p>
+
+### 📊 Dashboard Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smart-rwl&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7" alt="smart-rwl" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smart-rwl&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7" alt="smart-rwl" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smart-rwl&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=bb9af7" alt="smart-rwl" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smart-rwl&theme=tokyonight" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smart-rwl&theme=tokyonight" alt="Stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=60&section=footer" />
+</p>
