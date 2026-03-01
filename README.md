@@ -142,3 +142,28 @@
 </p>
 
 ---
+
+
+---
+
+### ⚡ Developer Dashboard
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smart-rwl&theme=radical" width="100%" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smart-rwl&show_icons=true&theme=radical&hide_border=true&title_color=fe428e&icon_color=08d7ee&bg_color=1a1b27" width="49.5%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smart-rwl&theme=radical&hide_border=true&stroke=fe428e&fire=fe428e&ring=08d7ee&background=1a1b27" width="49.5%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smart-rwl&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&title_color=fe428e&text_color=a9b1d6&bg_color=1a1b27" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smart-rwl&theme=radical" width="49.5%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smart-rwl&theme=radical&utcOffset=5.5" width="100%" alt="Productive Time" />
+</p>
+
+---
