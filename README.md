@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=smart-rwl&label=Profile%20views&color=0e75b6&style=flat" alt="smart-rwl" />
-  <a href="https://twitter.com/smartrwl" target="blank">
+  <a href="https://www.instagram.com/smartrwl" target="blank">
     <img src="https://img.shields.io/twitter/follow/smartrwl?logo=twitter&style=flat&color=0e75b6" alt="smartrwl" />
   </a>
 </p>
